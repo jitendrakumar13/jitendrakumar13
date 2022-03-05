@@ -5,7 +5,7 @@
 - 📫 How to reach me jeetu182370@gamil.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=jitendrakumar13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrakumar13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendrakumar13&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <!---
 jeetu1823/jeetu1823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
