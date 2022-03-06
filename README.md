@@ -13,26 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jitendra</h1>
@@ -41,22 +21,41 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on AI/ML projects.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available on guthub.
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **jeetu182370@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+ 
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+ 
+     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/></a>
+ 
+     <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png"/></a>
+ 
+     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
+ 
+     <a href="#" target="_blank"> <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-html-coding-and-development-flat-flat-juicy-fish-2.png"/></a>
+ 
+ 
+ </p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
