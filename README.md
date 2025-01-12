@@ -48,7 +48,7 @@
 
 ## 🏆 Competitive Programming  
 
-- **LeetCode:** [ijitendra13](https://www.linkedin.com/in/jitendrashah13/)  
+- **LeetCode:** [ijitendra13](https://leetcode.com/u/ijitendra13)  
 - Solving problems to improve algorithmic thinking and coding efficiency.  
 
 ---
@@ -62,5 +62,5 @@
 
 ## 🌐 Let's Connect  
 
-- **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jeetu182370/)  
+- **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jitendrashah13)  
 - **GitHub Repos:** [My Projects](https://github.com/jitendrakumar13)  
