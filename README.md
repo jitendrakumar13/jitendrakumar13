@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @jeetu1823
-- 👀 I’m interested in AI ML || Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on AI ML
-- 📫 How to reach me jeetu182370@gamil.com
+📚 Currently Learning: Spring Boot
+🤝 Open to Collaborate: AI/ML projects,Development
+💼 Professional: Developer at SAP Labs India
+🎯 Skills: SQL, Data Structures & Algorithms (DSA), C++, and more
+🏆 LeetCode : ijitendra13
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=jitendrakumar13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!---
