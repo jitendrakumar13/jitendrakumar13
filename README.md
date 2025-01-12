@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @jeetu1823
-📚 Currently Learning: Spring Boot
-🤝 Open to Collaborate: AI/ML projects,Development
-💼 Professional: Developer at SAP Labs India
-🎯 Skills: SQL, Data Structures & Algorithms (DSA), C++, and more
-🏆 LeetCode : ijitendra13
+👋 Hi, I’m @jeetu1823
+  
+📚 **Currently Learning:** Spring Boot  
+
+🤝 **Open to Collaborate:** AI/ML projects, Development  
+
+💼 **Professional:** Developer at SAP Labs India  
+
+🎯 **Skills:** SQL, Data Structures & Algorithms (DSA), C++, and more  
+
+🏆 **LeetCode:** [ijitendra13](https://leetcode.com/ijitendra13)  
+
 
 
 
