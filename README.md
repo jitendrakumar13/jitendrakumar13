@@ -1,20 +1,70 @@
-👋 Hi, I’m @jeetu1823
-  
-📚 **Currently Learning:** Spring Boot  
+# 👋 Hi, I’m **Jitendra Kumar**
 
-🤝 **Open to Collaborate:** AI/ML projects, Development  
+👨‍💻 Passionate developer and technology enthusiast working at **SAP Labs India**. I enjoy solving challenging problems, contributing to impactful projects, and learning new technologies!  
 
-💼 **Professional:** Developer at SAP Labs India  
+---
 
-🎯 **Skills:** SQL, Data Structures & Algorithms (DSA), C++, and more  
+## 📚 Currently Exploring  
 
-🏆 **LeetCode:** [ijitendra13](https://leetcode.com/ijitendra13)  
+- **Spring Boot** for building scalable web applications.  
+- Expanding my expertise in **AI/ML** and **Data Analytics**.  
 
+---
 
+## 🤝 Open to Collaborate  
 
+- **AI/ML Projects:** Interested in creating innovative machine learning solutions.  
+- **Development Projects:** Open to working on impactful software development projects.  
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendrakumar13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<!---
-jeetu1823/jeetu1823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 💼 Professional Experience  
+
+- **Role:** Developer at SAP Labs India  
+- **Specializations:**  
+  - Backend Development  
+  - Data Analysis and Insights  
+---
+
+## 🎯 Skills  
+
+### **Programming Languages**  
+- C++  
+- Python  
+- SQL  
+- Java  
+
+### **Technical Skills**  
+- **Data Structures & Algorithms (DSA)**  
+- **Database Management Systems (DBMS)**  
+- **Machine Learning (ML)**  
+- REST APIs and Microservices  
+
+### **Frameworks & Tools**  
+- Spring Boot  
+- Streamlit  
+
+---
+
+## 🏆 Competitive Programming  
+
+- **LeetCode:** [ijitendra13](https://leetcode.com/ijitendra13)  
+- Solving problems to improve algorithmic thinking and coding efficiency.  
+
+---
+
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=jitendrakumar13&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=jitendrakumar13&theme=dark&hide_border=true" alt="GitHub Streak Stats">  
+ -->
+---
+
+## 🌐 Let's Connect  
+
+- **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jeetu182370/)  
+- **GitHub Repos:** [My Projects](https://github.com/jitendrakumar13)  
+
+---
+
+Feel free to tweak the README further to suit your style. Let me know if you'd like to add anything more! 😊
