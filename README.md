@@ -64,7 +64,3 @@
 
 - **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jeetu182370/)  
 - **GitHub Repos:** [My Projects](https://github.com/jitendrakumar13)  
-
----
-
-Feel free to tweak the README further to suit your style. Let me know if you'd like to add anything more! 😊
